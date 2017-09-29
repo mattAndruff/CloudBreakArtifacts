@@ -1,0 +1,12 @@
+"admin-properties" : {
+        "properties_attributes" : { },
+        "properties" : {
+          "DB_FLAVOR" : "POSTGRES",
+          "db_name" : "rangerdb",
+          "SQL_CONNECTOR_JAR" : "{{driver_curl_target}}",
+          "db_user" : "rangerdba",
+          "policymgr_external_url" : "http://%HOSTGROUP::host_group_master_3%:6080",
+          "db_host" : "%HOSTGROUP::host_group_master_3%",
+          "db_root_user" : "rangerdba"
+        }
+      }
