@@ -1,5 +1,5 @@
 "properties" : {
-"admin_password" : "SECRET:ranger-env:1:admin_password",
+"admin_password" : "admin_password",
 "admin_username" : "admin",
 "bind_anonymous" : "false",
 "create_db_dbuser" : "true",
