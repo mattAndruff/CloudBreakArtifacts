@@ -15,7 +15,7 @@
 "ranger.usersync.kerberos.keytab" : "",
 "ranger.usersync.kerberos.principal" : "",
 "ranger.usersync.keystore.file" : "/usr/hdp/current/ranger-usersync/conf/unixauthservice.jks",
-"ranger.usersync.keystore.password" : "SECRET:ranger-ugsync-site:1:ranger.usersync.keystore.password",
+"ranger.usersync.keystore.password" : "rangerAdminPassword",
 "ranger.usersync.ldap.bindalias" : "testldapalias",
 "ranger.usersync.ldap.binddn" : "",
 "ranger.usersync.ldap.bindkeystore" : "",
